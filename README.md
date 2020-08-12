@@ -1,7 +1,6 @@
 # Python iPrice assignment
 
-used _Python Fire for automatically generating command line interfaces
-(CLIs) from Python object
+I used Python Fire for generating command line interfaces
 
 ## Installation
 To run this program you need to have python 3
